@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><picture>
+-->
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stasmarkin2008/Stasmarkin2008/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stasmarkin2008/Stasmarkin2008/output/github-snake.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Stasmarkin2008/Stasmarkin2008/output/github-snake.svg">
